@@ -5,6 +5,10 @@
 
 🚀 **Highlighted Projects**
 
+- 🛍️ [Retail Sales Analysis (SQL + Python)](https://github.com/Tabassumfathima583/Retail-sales-using-python-sql)  
+  *Explored 73k+ retail transactions using SQL & Python.  
+  Delivered insights via a dashboard-style poster presentation.*
+
 - 🌧️ [USA Rainfall Prediction Dashboard](https://github.com/Tabassumfathima583/USA-Rainfall-Prediction)  
   *Visualized rainfall and weather patterns across U.S. (2024–2025) using Power BI.  
   Cleaned dataset with Python; created poster-style dashboard.*
@@ -38,5 +42,6 @@
 - NLP with Hugging Face  
 - Building a data storytelling portfolio  
 
+---
 
 _"Turning data into decisions through insights & visualization."_

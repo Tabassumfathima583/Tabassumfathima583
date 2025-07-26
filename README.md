@@ -1,19 +1,42 @@
-### Hi there 👋 I'm Tabassum Fathima  
-🎓 MSc Data Science Student | 💡 Data Enthusiast | 📊 Python & NLP Practitioner
+### 👋 Hi there, I'm Tabassum Fathima  
+🎓 MSc Data Science Student | 💡 Data Enthusiast | 📊 Python & NLP Practitioner  
 
 ---
 
-🚀 **Highlighted Projects:**
+🚀 **Highlighted Projects**
 
-- 📺 [IMDB-TV-Show-Reviews](https://github.com/Tabassumfathima583/IMDB-TV-Show-Reviews)  
-  *Performed sentiment analysis & visualization of user reviews from IMDB.*
+- 🌧️ [USA Rainfall Prediction Dashboard](https://github.com/Tabassumfathima583/USA-Rainfall-Prediction)  
+  *Visualized rainfall and weather patterns across U.S. (2024–2025) using Power BI.  
+  Cleaned dataset with Python; created poster-style dashboard.*
+
+- 📊 [Time Series Forecasting](https://github.com/Tabassumfathima583/Time-series)  
+  *Built time series models using ARIMA, SARIMA, and Exponential Smoothing.  
+  Forecasted trends and seasonality from real-world datasets.*
+
+- 📺 [IMDB TV Show Reviews](https://github.com/Tabassumfathima583/IMDB-TV-Show-Reviews)  
+  *Performed sentiment analysis and visualized user reviews scraped from IMDB.*
 
 - 📈 [700 AI & Data Jobs – Analysis](https://github.com/Tabassumfathima583/700-JOBs-Data-of-AI-Data-Fields-2025)  
-  *Exploratory data analysis of 700+ AI/Data-related job listings.*
+  *EDA of 700+ job listings in AI & Data fields to uncover hiring trends and skills in demand.*
 
 - 📰 [Newspaper Churn Prediction](https://github.com/Tabassumfathima583/Newspaper-churn)  
-  *End-to-end ML project predicting customer churn using XGBoost (Accuracy: 84.8%).  
-  Included EDA, feature importance, and multiple models.*
+  *End-to-end ML project using XGBoost (Accuracy: 84.8%).  
+  Included EDA, feature importance, and predictive modeling.*
 
-🔧 **Tools & Skills:**  
-Python · Pandas · NumPy · Scikit-learn · XGBoost · Matplotlib · Seaborn · Jupyter · PowerPoint · GitHub . Plotly
+---
+
+🧠 **Core Skills & Tools**
+
+- **Languages & Libraries**: Python · Pandas · NumPy · Scikit-learn · XGBoost  
+- **Data Viz**: Power BI · Matplotlib · Seaborn · Plotly  
+- **Tools**: Jupyter · GitHub · PowerPoint · VS Code  
+
+---
+
+📌 **Currently Exploring**  
+- Advanced Power BI visual design  
+- NLP with Hugging Face  
+- Building a data storytelling portfolio  
+
+
+_"Turning data into decisions through insights & visualization."_

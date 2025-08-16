@@ -1,57 +1,56 @@
-### 👋 Hi there, I'm Tabassum Fathima  
-🎓 MSc Data Science Student | 💡 Data Enthusiast | 📊 Python & NLP Practitioner  
+## 👩‍💻 About Me – Tabassum Fathima
+
+🎓 MSc Data Science Student | 💡 Data Enthusiast | 📊 Python & NLP Practitioner
 
 ---
 
-🚀 **Highlighted Projects**
+### 🚀 Highlighted Projects
+
+- 🟡 [**Sentiment Analysis – Livin' by Mandiri App Reviews**](https://github.com/Tabassumfathima583/Livin-by-Mandiri-App-Reviews)  
+  *Analyzed 10,000+ app reviews from the Google Play Store to assess user satisfaction.  
+  Applied NLP techniques, generated visual insights (word cloud, ratings vs. time), and built a poster summarizing key trends and improvement areas.*  
+  **Stack Used**: `Python`, `Pandas`, `NLTK`, `TextBlob`, `Seaborn`, `Matplotlib`, `Jupyter`, `WordCloud`
 
 - ❤️ [**Heart Disease Prediction**](https://github.com/Tabassumfathima583/Heart-Disease)  
-  *Applied ML models to predict heart disease presence using medical data.  
-  Achieved solid performance with feature importance and model evaluation metrics.*  
-  **Stack Used**:  
-  `pandas` · `numpy` · `scipy.stats` · `scikit-learn (LogisticRegression)` · `matplotlib` · `seaborn` · `Jupyter Notebook`
+  *Applied ML models to predict heart disease using clinical data with high accuracy.*  
+  **Stack Used**: `pandas`, `numpy`, `scipy.stats`, `scikit-learn`, `matplotlib`, `seaborn`
 
 - 🛍️ [**Retail Sales Analysis (SQL + Python)**](https://github.com/Tabassumfathima583/Retail-sales-using-python-sql)  
-  *Explored 73k+ retail transactions using SQL & Python.  
-  Delivered insights via a dashboard-style poster presentation.*
+  *Explored 73k+ retail transactions and presented dashboard-style insights.*
 
 - 🌧️ [**USA Rainfall Prediction Dashboard**](https://github.com/Tabassumfathima583/USA-Rainfall-Prediction)  
-  *Visualized rainfall and weather patterns across the U.S. (2024–2025) using Power BI.  
-  Cleaned data in Python and designed a story-driven dashboard.*
+  *Visualized nationwide rainfall trends with Power BI + Python pre-processing.*
 
 - 📊 [**Time Series Forecasting**](https://github.com/Tabassumfathima583/Time-series)  
-  *Built models using ARIMA, SARIMA, and Exponential Smoothing.  
-  Forecasted trends and seasonality from real-world datasets.*
+  *Forecasted trends using ARIMA, SARIMA, and exponential smoothing techniques.*
 
-- 📺 [**IMDB TV Show Reviews**](https://github.com/Tabassumfathima583/IMDB-TV-Show-Reviews)  
-  *Performed sentiment analysis and visualized user reviews scraped from IMDB.*
+- 📺 [**IMDB TV Show Reviews Analysis**](https://github.com/Tabassumfathima583/IMDB-TV-Show-Reviews)  
+  *Performed text mining and sentiment analysis on user reviews.*
 
-- 📈 [**700 AI & Data Jobs – Analysis**](https://github.com/Tabassumfathima583/700-JOBs-Data-of-AI-Data-Fields-2025)  
-  *Analyzed 700+ job listings in AI & Data fields.  
-  Uncovered hiring trends, salary insights, and in-demand skills.*
+- 📈 [**700+ AI & Data Jobs Analysis**](https://github.com/Tabassumfathima583/700-JOBs-Data-of-AI-Data-Fields-2025)  
+  *Revealed trends in job titles, skills, and salaries in AI/Data roles.*
 
 - 📰 [**Newspaper Churn Prediction**](https://github.com/Tabassumfathima583/Newspaper-churn)  
-  *End-to-end ML project using XGBoost (Accuracy: 84.8%).  
-  Included EDA, feature importance analysis, and predictive modeling.*
+  *Built churn prediction models using XGBoost with 84.8% accuracy.*
 
 ---
 
-🧠 **Core Skills & Tools**
+### 🧠 Core Skills & Tools
 
-- **Languages & Libraries**: Python · Pandas · NumPy · Scikit-learn · XGBoost  
-- **Visualization**: Power BI · Matplotlib · Seaborn · Plotly  
-- **Tools & Platforms**: Jupyter · GitHub · VS Code · PowerPoint  
+- **Languages & Libraries**: Python, Pandas, NumPy, Scikit-learn, XGBoost  
+- **Visualization**: Power BI, Matplotlib, Seaborn, Plotly  
+- **Tools**: Jupyter Notebook, GitHub, VS Code, PowerPoint
 
 ---
 
-📌 **Currently Exploring**
+### 📌 Currently Exploring
 
-- Advanced Power BI visual design & interactivity  
+- Advanced Power BI visual storytelling  
 - NLP with Hugging Face Transformers  
-- Building a storytelling-focused data portfolio  
+- Building polished, narrative-driven data portfolios
 
 ---
 
-_“Turning data into decisions through insights & visualization.”_
+> _“Turning data into decisions through insights & visualization.”_
 
 ---

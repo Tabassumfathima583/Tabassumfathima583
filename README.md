@@ -44,8 +44,6 @@ As an MSc Data Science student with a strong foundation in Python, NLP, and anal
   Trained a RidgeClassifier to detect language from input text with interactive visual outputs.  
   **Stack**: `Python`, `scikit-learn`, `Pandas`, `Plotly`
 
----
-
 - 📈 [**Churn-Prediction-Stream-Work-Ltd**](https://github.com/Tabassumfathima583/Churn-Prediction-Stream-Work-Ltd)  
   A comprehensive Jupyter Notebook project predicting customer churn for *Stream Work Ltd* using feature engineering and ML modeling.
 

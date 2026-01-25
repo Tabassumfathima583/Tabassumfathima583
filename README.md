@@ -46,6 +46,17 @@ As an MSc Data Science student with a strong foundation in Python, NLP, and anal
 
 ---
 
+- 📈 [**Churn-Prediction-Stream-Work-Ltd**](https://github.com/Tabassumfathima583/Churn-Prediction-Stream-Work-Ltd)  
+  A comprehensive Jupyter Notebook project predicting customer churn for *Stream Work Ltd* using feature engineering and ML modeling.
+
+- 🧹 [**Green-Cart-Ltd-Data-Wrangling**](https://github.com/Tabassumfathima583/Green-Cart-Ltd-Data-Wrangling)  
+  Data cleaning and preprocessing workflows for *Green Cart Ltd* to prepare datasets for deeper analysis and modeling.
+
+- 📋 [**Customer-Sign-Up-Behavior-Data-Quality-Audit**](https://github.com/Tabassumfathima583/Customer-Sign-Up-Behavior-Data-Quality-Audit)  
+  Performed a data quality audit on customer sign-up behavior data, identifying data issues and validation insights.
+
+---
+
 ### 🧠 Core Skills & Tools
 
 **Programming & Data Tools**: Python, SQL, Jupyter Notebook, VS Code, GitHub  

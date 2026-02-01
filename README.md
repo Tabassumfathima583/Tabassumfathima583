@@ -52,6 +52,9 @@ As an MSc Data Science student with a strong foundation in Python, NLP, and anal
 
 - 📋 [**Customer-Sign-Up-Behavior-Data-Quality-Audit**](https://github.com/Tabassumfathima583/Customer-Sign-Up-Behavior-Data-Quality-Audit)  
   Performed a data quality audit on customer sign-up behavior data, identifying data issues and validation insights.
+  
+- 📊 [**TechHub Sales Data Dashboard Project**](https://github.com/Tabassumfathima583/TechHub-Sales-Data-Dashboard-Project)  
+Built an interactive Tableau dashboard to analyze sales trends, product performance, and customer insights using structured sales datasets.
 
 ---
 

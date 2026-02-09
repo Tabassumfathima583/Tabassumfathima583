@@ -8,6 +8,10 @@ As an MSc Data Science student with a strong foundation in Python, NLP, and anal
 
 ### 🚀 Highlighted Projects
 
+- 💳 [**Credit Card Fraud Detection**](https://github.com/Tabassumfathima583/Credit_Card_Fraud_Detection)  
+  Built a machine learning model to detect fraudulent credit card transactions with an **interactive Streamlit app**. Includes model explanation, feature importance visualization, and a local prediction interface.  
+  **Stack**: `Python`, `XGBoost`, `Scikit-learn`, `Pandas`, `Streamlit`, `Matplotlib`, `Seaborn`
+
 - 🟡 [**Sentiment Analysis – Livin' by Mandiri App Reviews**](https://github.com/Tabassumfathima583/Livin-by-Mandiri-App-Reviews)  
   Analyzed 10,000+ app reviews to identify sentiment trends, helping guide product feature improvements.  
   **Stack**: `Python`, `Pandas`, `NLTK`, `TextBlob`, `Seaborn`, `Matplotlib`, `WordCloud`
@@ -52,9 +56,9 @@ As an MSc Data Science student with a strong foundation in Python, NLP, and anal
 
 - 📋 [**Customer-Sign-Up-Behavior-Data-Quality-Audit**](https://github.com/Tabassumfathima583/Customer-Sign-Up-Behavior-Data-Quality-Audit)  
   Performed a data quality audit on customer sign-up behavior data, identifying data issues and validation insights.
-  
+
 - 📊 [**TechHub Sales Data Dashboard Project**](https://github.com/Tabassumfathima583/TechHub-Sales-Data-Dashboard-Project)  
-Built an interactive Tableau dashboard to analyze sales trends, product performance, and customer insights using structured sales datasets.
+  Built an interactive Tableau dashboard to analyze sales trends, product performance, and customer insights using structured sales datasets.
 
 ---
 
@@ -76,6 +80,4 @@ Built an interactive Tableau dashboard to analyze sales trends, product performa
 
 ---
 
-> _“Turning data into decisions through insights & visualization.”_
-
-Let’s connect and explore opportunities to collaborate in data science and analytics!
+> _“Turning data into_

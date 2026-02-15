@@ -80,4 +80,3 @@ As an MSc Data Science student with a strong foundation in Python, NLP, and anal
 
 ---
 
-> _“Turning data into_
